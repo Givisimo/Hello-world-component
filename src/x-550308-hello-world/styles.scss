@@ -1,0 +1,13 @@
+@import '@servicenow/sass-kit/host';
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecd6b9;
+  height: 100vh;
+}
+
+.dark {
+  background-color: #787878;
+}
